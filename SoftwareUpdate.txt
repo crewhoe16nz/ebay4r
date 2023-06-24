@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Update CITATION.cff with cffinit corrections (#8658)
