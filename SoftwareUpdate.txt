@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Biometric Protection - Require TouchID / FaceID verification for switching browsing modes, locking tabs, unlocking tabs or accessing locked tabs
